@@ -1,0 +1,32 @@
+.headerBottom{
+  min-height: 98px;
+  box-shadow: 0 0 12px rgba(72, 79, 78, 0.17);
+  margin-bottom: 10px;
+  .nav-search{
+    padding:0 66px 0 46px;
+
+    i{
+      color: black;
+    }
+  }
+  .nav-item:not(.nav-search){
+    a{
+      @extend %font-accent;
+      font-size: $fon-size-l;
+      color: #17181A;
+    }
+  }
+  &__icons{
+    a{
+      color: black;
+      font-size: 25px;
+
+      &:not(:last-child){
+        padding-right: 17px;
+      }
+    }
+  }
+  i.bi-cart2{
+    font-size: 24px;
+  }
+}

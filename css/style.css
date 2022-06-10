@@ -1,0 +1,151 @@
+.view__dropdown-button, .breadCrumbTitle a, .headerBottom .nav-item:not(.nav-search) a, .headerTop .btn-not-style, .headerTop a {
+  font-family: "Lato", sans-serif;
+  font-weight: normal;
+}
+
+.breadCrumbTitle h2 {
+  font-family: "Lato", sans-serif;
+  font-weight: bold;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  font-size: 15px;
+  line-height: 18px;
+  background: #E5E5E5;
+}
+
+a {
+  text-decoration: none;
+}
+
+.btn-un-styled {
+  border: none;
+  outline: none;
+  background-color: initial;
+}
+
+@media (min-width: 1440px) {
+  .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1120px;
+  }
+}
+.headerTop {
+  padding: 5px 0;
+}
+.headerTop__content span {
+  padding-left: 17px;
+}
+.headerTop a {
+  font-size: 13px;
+  color: black;
+}
+.headerTop .btn-not-style {
+  font-size: 13px;
+  border: none;
+  outline: none;
+  padding: 0;
+}
+.headerTop__dropdown {
+  justify-content: flex-end;
+}
+.headerTop__dropdown span {
+  padding-left: 7px;
+}
+
+.headerBottom {
+  min-height: 98px;
+  box-shadow: 0 0 12px rgba(72, 79, 78, 0.17);
+  margin-bottom: 10px;
+}
+.headerBottom .nav-search {
+  padding: 0 66px 0 46px;
+}
+.headerBottom .nav-search i {
+  color: black;
+}
+.headerBottom .nav-item:not(.nav-search) a {
+  font-size: 15px;
+  color: #17181A;
+}
+.headerBottom__icons a {
+  color: black;
+  font-size: 25px;
+}
+.headerBottom__icons a:not(:last-child) {
+  padding-right: 17px;
+}
+.headerBottom i.bi-cart2 {
+  font-size: 24px;
+}
+
+.breadCrumbTitle {
+  margin-bottom: 37px;
+}
+.breadCrumbTitle a {
+  font-size: 13px;
+  color: #43464C;
+}
+.breadCrumbTitle a:hover {
+  color: #73962C;
+}
+.breadCrumbTitle h2 {
+  font-size: 28px;
+  color: #17181A;
+}
+
+.view .wrapper {
+  padding-right: 30px;
+}
+.view .btn-un-styled {
+  border: none;
+}
+.view form {
+  position: relative;
+}
+.view__button {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.view__dropdown {
+  padding-right: 15px;
+}
+.view input[type=search] {
+  padding-right: 45px;
+}
+.view__dropdown-button {
+  font-size: 15px;
+  background: #ffffff;
+  color: black;
+  display: flex;
+  border-radius: 17px;
+  border: none;
+  align-items: center;
+  justify-content: center;
+}
+.view__input {
+  border-radius: 20px;
+}
+
+@media (min-width: 320px) {
+  .view__left-button {
+    padding-bottom: 15px;
+    padding-right: 15px;
+  }
+}
+@media (min-width: 576px) {
+  .view__dropdown {
+    padding-right: 0;
+  }
+}
+
+.asideMainContent__aside {
+  padding-right: 0;
+}
+
+.asideMainContent__accordion {
+  overflow: inherit;
+}
+
+/*# sourceMappingURL=style.css.map */

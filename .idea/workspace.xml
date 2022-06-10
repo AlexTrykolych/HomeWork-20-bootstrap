@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e8a6296-d36e-4e26-96f3-8bf514ae0764" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon/best-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon/line.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon/logo-header.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon/new.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon/paginatorArrowLeft.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon/paginatorArrowRight.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon/teams-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/product-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/product-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/product-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Lato-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Lato-Bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Lato-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Lato-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Lato-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Lato-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Lato-Regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Lato-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Lato-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Lato-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/common/common.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/common/extends.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/common/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/common/mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/common/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/componens/asideMainContent/asideMainContent-media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/componens/asideMainContent/asideMainContent.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/componens/asideMainContent/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/componens/breadCrumbTitle/breadCrumbTitle.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/componens/breadCrumbTitle/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/componens/headerBottom/headerBottom-media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/componens/headerBottom/headerBottom.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/componens/headerBottom/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/componens/headerTop/headerTop-media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/componens/headerTop/headerTop.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/componens/headerTop/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/componens/view/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/componens/view/view-media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/componens/view/view.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/index.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Stylus File" />
+        <option value="HTML File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29yuEvCgARpWMISd5WZLmBdP5Xk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\HomeWork-20-bootstrap\assets\icon" />
+      <recent name="C:\Users\User\Desktop\HomeWork-20-bootstrap\assets\img" />
+      <recent name="C:\Users\User\Desktop\HomeWork-20-bootstrap\assets" />
+      <recent name="C:\Users\User\Desktop\HomeWork-20-bootstrap\fonts" />
+      <recent name="C:\Users\User\Desktop\HomeWork-20-bootstrap\scss\comon" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e8a6296-d36e-4e26-96f3-8bf514ae0764" name="Changes" comment="" />
+      <created>1654097538066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654097538066</updated>
+      <workItem from="1654097539291" duration="23246000" />
+      <workItem from="1654500108397" duration="37276000" />
+      <workItem from="1654628031928" duration="42000" />
+      <workItem from="1654859471871" duration="4820000" />
+      <workItem from="1654864794627" duration="73000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

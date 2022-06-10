@@ -1,0 +1,22 @@
+
+body{
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+  line-height: 18px;
+  background: $body-color;
+}
+
+a{
+  text-decoration: none;
+}
+.btn-un-styled{
+  border: none;
+  outline: none;
+  background-color: initial;
+}
+
+@media (min-width: 1440px) {
+  .container,.container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1120px;
+  }
+}

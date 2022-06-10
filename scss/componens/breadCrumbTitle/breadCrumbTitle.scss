@@ -1,0 +1,16 @@
+.breadCrumbTitle{
+  margin-bottom: 37px;
+  a{
+    @extend %font-accent;
+    font-size: $fon-size-m;
+    color: #43464C;
+    &:hover{
+      color:#73962C ;
+    }
+  }
+  h2{
+    @extend %font-main;
+    font-size: $fon-size-xxl;
+    color: #17181A;
+  }
+}

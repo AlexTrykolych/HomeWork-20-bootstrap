@@ -1,0 +1,26 @@
+.headerTop{
+  padding: 5px 0;
+  &__content{
+    span{
+      padding-left: 17px;
+    }
+  }
+a{
+  @extend %font-accent;
+  font-size: $fon-size-m;
+  color: black;
+}
+  .btn-not-style{
+    @extend %font-accent;
+    font-size: $fon-size-m;
+    border: none;
+    outline: none;
+    padding: 0;
+  }
+  &__dropdown{
+    justify-content: flex-end;
+    span{
+      padding-left: 7px;
+    }
+  }
+}

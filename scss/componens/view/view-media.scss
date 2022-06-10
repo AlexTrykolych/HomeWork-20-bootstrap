@@ -1,0 +1,15 @@
+.view{
+
+  @media (min-width: 320px) {
+    &__left-button{
+         padding-bottom: 15px;
+         padding-right: 15px;
+       }
+  }
+  @media (min-width: 576px) {
+    &__dropdown{
+      padding-right:0;
+    }
+  }
+}
+

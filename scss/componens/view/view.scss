@@ -1,0 +1,36 @@
+.view{
+.wrapper{
+  padding-right: 30px;
+}
+  .btn-un-styled{
+    border: none;
+  }
+  form{
+    position: relative;
+  }
+  &__button{
+    position: absolute;
+    top: 0;
+    right:0;
+  }
+  &__dropdown{
+    padding-right: 15px;
+  }
+  input[type=search]{
+    padding-right: 45px;
+  }
+  &__dropdown-button{
+    @extend %font-accent;
+    font-size: $fon-size-l;
+    background: #ffffff;
+    color: black;
+    display: flex;
+    border-radius: 17px;
+    border: none;
+    align-items: center;
+    justify-content: center;
+  }
+  &__input{
+    border-radius: 20px;
+  }
+}
